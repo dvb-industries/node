@@ -1,3 +1,4 @@
+package "git"
 package "make"
 package "g++"
 
